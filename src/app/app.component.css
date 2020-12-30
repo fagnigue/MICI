@@ -1,0 +1,60 @@
+
+
+#media {
+	padding-top: 5px;
+	text-align: right;
+	padding-left: 20px;
+}
+
+#fb, #ig, #in, #tw {
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+}
+
+#fb:hover, #ig:hover, #li:hover, #tw:hover {
+	color: orange;
+}
+
+
+#menu {
+	padding-right: 40px;
+}
+
+#menu li {
+	display: inline-block;
+	margin: 5px;
+}
+
+nav a {
+	font-family: Times, Times New Roman, serif;
+	font-style: italic;
+	font-size: 50px;
+}
+
+#menu a {
+	text-decoration: none;
+	color: #094392;
+	font-family: Times, Times New Roman, serif;
+	font-style: oblique;
+	font-size: 25px;
+	margin: 10px;
+}
+
+#menu a:hover {
+	color: orange;
+	font-style: italic;
+	font-size: 25px;
+}
+
+
+
+footer {
+	background-color: white;
+}
+
+
+#lien_f {
+	text-decoration: none;
+	color: black;
+}
