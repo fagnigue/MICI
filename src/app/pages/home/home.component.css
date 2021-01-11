@@ -1,0 +1,119 @@
+
+.parallax1 {
+  
+  background-image: url("./image/home.jpg");
+  text-align: center;
+  position: relative;
+  height: 400px;
+
+ 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text1 {
+	position: absolute;
+  	top: 45%;
+  	width: 100%;
+  	text-align: center;
+  	font-size: 50px;
+  	font-style: oblique;
+  	font-family: Times, Times New Roman, serif;
+  	color: white;
+  	animation-name: text1;
+  	animation-duration: 3s;
+}
+
+@keyframes text1 {
+	0% {top: 0%; opacity: .0;}
+	100% {top: 45%;}
+}
+
+.block1 {
+  	text-align: center;
+  	font-style: oblique;
+  	font-family: Times, Times New Roman, serif;
+}
+
+h1 {
+	color: #094392;
+}
+
+#entreprise {
+	padding-top: 5px;
+	height: 100%;
+}
+
+.parallax2 {
+ 
+  background-image: url("./image/appart.jpg");
+  position: relative;
+ 
+  height: 400px;
+
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text2 {
+	position: absolute;
+  	top: 45%;
+  	width: 100%;
+  	text-align: center;
+  	font-size: 50px;
+  	font-style: oblique;
+  	font-family: Times, Times New Roman, serif;
+  	color: white;
+  	animation-name: text2;
+  	animation-duration: 3s;
+}
+
+@keyframes text2 {
+	0% {top: 0%; opacity: .0;}
+	100% {top: 45%;}
+}
+
+.block2 {
+	text-align: center;
+  	font-style: oblique;
+  	font-family: Times, Times New Roman, serif;
+}
+
+ul.service li {
+	display: inline-block;
+	padding: 10px;
+}
+
+.parallax3 {
+  
+  background-image: url("./image/partenaires.jpg");
+  position: relative;
+  height: 400px;
+
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+.text3 {
+	position: absolute;
+  	top: 30%;
+  	left: 30%;
+  	font-size: 50px;
+  	font-style: oblique;
+  	font-family: Times, Times New Roman, serif;
+  	color: orange;
+
+}
+
+
+

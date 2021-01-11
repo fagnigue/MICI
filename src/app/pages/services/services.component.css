@@ -1,0 +1,47 @@
+.container {
+	
+}
+
+.container-fluid {
+	padding-top: 30px;
+}
+
+#services {
+
+}
+
+#title {
+	font-size: 50px;
+	font-style: oblique;
+  	font-family: Times, Times New Roman, serif;
+}
+
+#vbi img {
+	filter: brightness(50%);
+}
+
+#psi img {
+	filter: brightness(70%);
+}
+
+#vmc img {
+	filter: brightness(70%);
+}
+
+#vmm img {
+	filter: brightness(70%);
+}
+
+#lm img {
+	filter: brightness(70%);
+}
+
+#lm:hover {
+	filter: brightness(0%);
+}
+
+
+#ci img {
+	filter: brightness(70%);
+}
+
